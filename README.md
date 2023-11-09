@@ -1,4 +1,4 @@
-# PDrysat scripts
+# Drysat scripts
 
 Collection of scripts used for the drysat project
 
